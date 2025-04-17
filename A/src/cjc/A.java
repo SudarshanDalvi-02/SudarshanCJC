@@ -20,4 +20,8 @@ public class A {
 	{
 		System.out.println("His height is 6.3........");
 	}
+	public void m4()
+	{
+		System.out.println("my height is 5.8........");
+	}
 }
